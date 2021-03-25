@@ -82,6 +82,9 @@ header img {
     height: var(--header-height);
 }
 
+li {
+    justify-content: left;
+}
 
 
 content {

@@ -6,3 +6,10 @@
 4) Once we know _why_ we need each element, think about how to implement the "Why" as a "How"
 5) Find all the 'events' (user clicks, form submit, etc) in your app. Ask one by one, "What happens when" for each of these events.
 6) Think about how to validate each of your steps
+
+
+## Setting up the HTML
+
+1. create a button and call it submit-button
+2. fill in the about me section
+3. create a getElementbyId in java script for the button. 
