@@ -1,14 +1,7 @@
-
-// initialize state
-
-
-// set event listeners to update state and DOM
-
 // import functions and grab DOM elements
 import { countAsAYes } from './utils.js';
 
 const button = document.getElementById('button-1');
-
 const resultsDiv = document.getElementById('results');
 
 // initialize state
@@ -49,3 +42,8 @@ button.addEventListener('click', () => {
     // - How? `textContent = 'whatever'`
     resultsDiv.textContent = resultsString;
 });
+
+
+
+
+
